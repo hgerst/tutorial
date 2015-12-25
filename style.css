@@ -6,3 +6,10 @@ body {
 	background-color: #E6E6FA;
 }	
 
+.iv {
+	border: 1px solid black;
+	background-color: #FF5959;
+	padding: 5px 10px;
+	display: inline-block;
+}
+
